@@ -1,0 +1,265 @@
+body{
+
+width: 60%;
+}
+
+.wrapper-black{
+	width: 1350px;
+	height: 50px;
+	background-color: black;
+
+}
+
+header  ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+header ul li{
+	float: left;
+	width: 16.66667%;
+	margin: 0;
+	padding: 0;
+}
+
+header  a{
+color: white;
+	font-size: 1em;
+	padding: 15px 0;
+	text-align: center;
+}
+
+header a:hover{
+	color: #A6A6A6;
+}
+
+
+.feature1{
+	margin-left:300px; 
+}
+
+.wrapper-grey{
+	width: 1350px;
+	font-size: 13px;
+	background:#EDEFF0;
+	color: #4e4e4e;
+}
+
+.container ul li{
+	float: left;
+	width: 12%;
+	margin: 0;
+	padding: 0;
+}
+
+.container a{
+margin-top: 60px;
+	font-size: 1.25em;
+	padding-right: 15px;
+	text-align: center;
+}
+
+#gret{
+	width: 1350px;
+	background-color: rgb(9,93,103);
+	height: 437px;
+}
+#gret h1{
+font-size: 5em;
+padding: 0 300px 50px 300px;
+color: white;
+line-height: 0.8em;
+font-weight: bold;
+}
+#gret button{
+	color: white;
+	background-color: black;
+	border-color: black;
+	border-radius: 0px;
+	width: 157px;
+	
+}
+#gret button:hover{
+	background-color: #C6C6C6;
+	border-color: #C6C6C6;
+}
+#fats{
+	width: 1100px;
+	margin: 50px 120px 50px 120px;
+}
+#fats h2{
+	text-align: center;
+	font-weight: bold;
+}
+#griu{
+	width: 1350px;
+	height: 500px;
+	background-color: rgb(242,242,242);
+	text-align: center;
+	padding: 0 50px 0 50px;
+}
+#griu h3{
+	font-weight: bold;
+	font-size:2em; 
+
+}
+#griu button{
+	background-color: black;
+	width: 157px;
+	color: white;
+	border-radius: 0px;
+	font-weight: bold;
+	margin: 25px 0 30px 0;
+}
+#griu button:hover{
+	border-color: #C6C6C6;
+	background-color: #C6C6C6;
+
+}
+#griu a{
+	font-weight:bold; 
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+	
+}
+#griu a:hover{
+border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+text-decoration: none;
+	color: #C6C6C6;
+}
+#brid{
+	padding: 150px 0 0 150px;
+}
+#brid span{
+font-weight: bold;
+}
+#brid h3{
+	margin: 35px 0 35px 0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+#brid p{
+	margin-bottom: 30px;
+}
+#brid a{
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+}
+#brid a:hover{
+	text-decoration: none;
+	border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+}
+#fri{
+	padding:150px 0 0 20px; 
+}
+
+
+.Wrapper-grey{
+	text-align: center;
+	width: 1350px;
+	font-size: 13px;
+	background:#EDEFF0;
+	color: #4e4e4e;
+}
+
+.bat button p h2{
+	margin-top: 60px;
+}
+
+.bat button{
+	background-color: black;
+	width: 157px;
+	color: white;
+	border-radius: 0px;
+	font-weight: bold;
+	margin: 25px 0 30px 0;
+}
+.bat button:hover{
+	border-color: #777777;
+	background-color: #777777;
+
+}
+
+.Wrapper-white{
+	padding-left: 350px;
+	padding-top: 70px;
+	text-align: center;
+	margin-right: 100px;
+	margin-left: 0px;
+	height: 500px;
+	width: 1350px;
+	font-size: 13px;
+	background-image:  url('../images-KIND/po.png');
+	color: #4e4e4e;
+}
+
+.brt button{
+
+	background-color: black;
+	width: 157px;
+	color: white;
+	border-radius: 0px;
+	font-weight: bold;
+	margin: 25px 0 30px 0;
+}
+.brt button:hover{
+	border-color: #777777;
+	background-color: #777777;
+
+}
+
+.brt h1{	
+font-size: 4em;
+font-weight: bold;
+ }
+
+
+
+#Wrapper-grey{
+	padding-top: 40px;
+	height: 400px;
+	text-align: center;
+	width: 1350px;
+	font-size: 13px;
+	background:#EDEFF0;
+	color: #4e4e4e;
+}
+
+
+.wrapper{
+height: 800px;	
+background-color:#000000; 
+width: 1350px;
+}
+
+
+.WRapper-black a{
+	padding-top: 160px;
+color: white;	
+}
+
+.WRapper-black{
+height: 400px;	
+background-color:#000000; 
+width: 1350px;
+}
+
+.foot{
+margin-top: 60px;
+margin-left: 60px;
+}
+
+.text-inline1 ul li{
+	list-style: none;
+}
+
+
+.text-inline1 ul p{
+margin-left: 80px;
+}
